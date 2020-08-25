@@ -6,7 +6,7 @@ Clean, simple and responsive academic project website powered by Bootstrap 4. Yo
 ## Showcase
 Some projects using this template:
 
-- [Inria - Learning Obstacle Representation for Neural Motion Planning]: http://pascal.inrialpes.fr/data2/repr_nmp/
+- [Inria - Learning Obstacle Representation for Neural Motion Planning](http://pascal.inrialpes.fr/data2/repr_nmp/)
 
 Feel free to add your example by forking the repo, adding a new line to the list and creating a pull request.
 

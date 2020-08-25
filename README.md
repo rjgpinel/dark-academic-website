@@ -1,7 +1,7 @@
 # dark-academic-website
 Dark Elegant Flavored - Academic Project Website Template
 
-Clean, simple and responsive academic project website powered by Bootstrap 4. You can easily update it with another content source for your own project.
+Clean, simple and responsive academic project website powered by Bootstrap 4. You can easily update it with another content source for your own project. [Demo](http://pascal.inrialpes.fr/data2/dark-academic-website/index.html)
 
 ## Showcase
 Some projects using this template:

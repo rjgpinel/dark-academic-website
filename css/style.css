@@ -51,6 +51,15 @@ a:hover {
   margin-bottom: 20px;
 }
 
+#footer a{
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+#footer a:hover {
+    color: #808080;
+    font-weight: bold;
+}
 
 .container {
   padding-top: 70px

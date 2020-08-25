@@ -1,0 +1,71 @@
+body {
+  padding-top: 3.5rem;
+}
+
+.nav-item:hover {
+  background-color: #E9ECEF;
+}
+
+.navbar .navbar-collapse .navbar-nav > li > a:hover {
+  color: #343A40;
+}
+
+a {
+  color: #181c21;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #808080;
+  font-weight: bold;
+}
+
+.navbar .navbar-collapse .navbar-nav > li > a.section-active {
+  background-color: #E9ECEF;
+  color: #343A40;
+  font-weight: bold;
+}
+
+#contributors .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+#contributors img {
+  margin-bottom: 15px;
+}
+
+#contributors img:hover {
+  opacity: 0.8;
+}
+
+#footer {
+  margin-top: 4em;
+  padding-top: 2em;
+  padding-bottom: 4em;
+  background-color: #343A40;
+  color: white;
+}
+
+#footer .col-md-4 {
+  margin-bottom: 20px;
+}
+
+
+.container {
+  padding-top: 70px
+}
+
+.citation {
+  background-color: #E9ECEF;
+  padding: 18px
+}
+
+.jumbotron .container {
+  padding:0;
+}
+
+#links button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

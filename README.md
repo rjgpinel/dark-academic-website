@@ -7,6 +7,7 @@ Clean, simple and responsive academic project website powered by Bootstrap 4. Yo
 Some projects using this template:
 
 - [Inria - Learning Obstacle Representation for Neural Motion Planning](https://www.di.ens.fr/willow/research/nmp_repr/)
+- [Inria - Goal-Conditioned Reinforcement Learning with Imagined Subgoals](https://www.di.ens.fr/willow/research/ris/)
 
 Feel free to add your example by forking the repo, adding a new line to the list and creating a pull request.
 

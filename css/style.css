@@ -2,6 +2,10 @@ body {
   padding-top: 3.5rem;
 }
 
+.nav-item {
+  transition: color 0.1s ease, background-color 0.1s ease;
+}
+
 .nav-item:hover {
   background-color: #E9ECEF;
 }
@@ -13,6 +17,7 @@ body {
 a {
   color: #181c21;
   font-weight: bold;
+  transition: color 0.15s ease, text-decoration 0.15s ease;
 }
 
 a:hover {
@@ -33,6 +38,8 @@ a:hover {
 
 #contributors img {
   margin-bottom: 15px;
+  opacity: 1;
+  transition: opacity 0.15s ease-in-out;
 }
 
 #contributors img:hover {
@@ -41,8 +48,7 @@ a:hover {
 
 #footer {
   margin-top: 4em;
-  padding-top: 2em;
-  padding-bottom: 4em;
+  padding: 4em 0;
   background-color: #343A40;
   color: white;
 }
@@ -62,7 +68,11 @@ a:hover {
 }
 
 .container {
-  padding-top: 70px
+  padding-top: 70px;
+}
+
+.footer-container {
+  padding-top: 0;
 }
 
 .citation {
@@ -74,7 +84,14 @@ a:hover {
   padding:0;
 }
 
-#links button {
+#links a {
   margin-top: 10px;
-  margin-bottom: 10px;
+  transition: background-color 0.15s ease, font-weight 0.15s ease;
+}
+
+#overview-legend {
+  font-style: italic;
+  text-align: center;
+  font-size: 0.85em;
+  margin-top: 20px;
 }

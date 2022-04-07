@@ -9,7 +9,7 @@ const DATA = {
         FAVICON_SRC: "img/logo_dummy.png",
         PROJECT_TITLE: "Project Title",
         PROJECT_SUBTITLE: {
-            "name": "Conference of XXX 20XX",
+            "name": "XXX Conference,  20XX",
             "url": "#",
         },
         AUTHOR_NAME: "Ricardo Garcia",

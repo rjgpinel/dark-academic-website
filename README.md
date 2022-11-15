@@ -14,6 +14,7 @@ Some projects using this template:
 
 - [Inria - Learning Obstacle Representation for Neural Motion Planning](https://www.di.ens.fr/willow/research/nmp_repr/)
 - [Inria - Goal-Conditioned Reinforcement Learning with Imagined Subgoals](https://www.di.ens.fr/willow/research/ris/)
+- [Inria - Assembly Planning from Observations under Physical Constraints](https://www.di.ens.fr/willow/research/assembly-planning/)
 
 Feel free to add your example by forking the repo, adding a new line to the list and creating a pull request.
 

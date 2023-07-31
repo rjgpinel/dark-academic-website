@@ -17,7 +17,7 @@ Some projects based on this template:
 - [Inria - Assembly Planning from Observations under Physical Constraints](https://www.di.ens.fr/willow/research/assembly-planning/)
 - [Inria - Learning Video-Conditioned Policies for Unseen Manipulation Tasks](https://www.di.ens.fr/willow/research/vip/)
 - [Inria - Object Goal Navigation with Recursive Implicit Maps](https://www.di.ens.fr/willow/research/onav_rim/)
-- [Inria - Robust visual sim-to-real transfer for robotic manipulation](https://www.di.ens.fr/willow/research/robust_s2r/)
+- [Inria - Robust Visual Sim-to-Real Transfer for Robotic Manipulation](https://www.di.ens.fr/willow/research/robust_s2r/)
 
 
 Feel free to add your example by forking the repo, adding a new line to the list and creating a pull request.

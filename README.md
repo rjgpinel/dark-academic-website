@@ -18,7 +18,7 @@ Some projects based on this template:
 - [Inria - Learning Video-Conditioned Policies for Unseen Manipulation Tasks](https://www.di.ens.fr/willow/research/vip/)
 - [Inria - Object Goal Navigation with Recursive Implicit Maps](https://www.di.ens.fr/willow/research/onav_rim/)
 - [Inria - Robust Visual Sim-to-Real Transfer for Robotic Manipulation](https://www.di.ens.fr/willow/research/robust_s2r/)
-
+- [Inria - PolarNet: 3D Point Clouds for Language-Guided Robotic Manipulation](https://www.di.ens.fr/willow/research/polarnet/)
 
 Feel free to add your example by forking the repo, adding a new line to the list and creating a pull request.
 
